@@ -34,9 +34,3 @@ System administrator. I want to become a DevOps engineer.
 *   [Linux](https://certs.prometheus.org.ua/cert/36e884fe4aba4dd282be7796b6279c69)
 *   [Git](https://certs.prometheus.org.ua/cert/d5dbcf739617427c955403184bd4e683)
 *   [DevOps and Kubernetes. Practical intensive course](https://certs.prometheus.org.ua/cert/1bc37307205f4ec8b4b46a552688e206)
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
-   </a>
-</div>
