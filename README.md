@@ -1,6 +1,5 @@
 # Hi, I'm Yurii 👋
-System administrator. I want to become a DevOps engineer.
-Tools, what I learn: 
+System administrator. I want to become a DevOps engineer. 
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/yurii-merkulov-2130021b6/">
